@@ -1,3 +1,9 @@
-git is awesome!
-new line
+e
+
 experiment with amend
+new data
+
+Ilya Samovich
+asdf
+
+New line
